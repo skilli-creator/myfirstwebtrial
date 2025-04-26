@@ -1,0 +1,49 @@
+body{
+    background:linear-gradient(to top ,skyblue,lightgreen);
+    background-image:url(/xxxx/WhatsApp\ Image\ 2025-02-10\ at\ 21.15.27.jpeg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    border:2px solid;
+    margin-top:10px;
+
+}
+h2{
+    color:rgb(39, 40, 43);
+    border-top-color:black;
+    border-top-style:inherit;
+    background:linear-gradient(to top ,skyblue,lightgreen);
+    border-top-width:10px;
+    
+}
+p{
+
+    color:rgb(207, 109, 240);
+}
+#p1{
+    
+    color:#000000;
+    
+}
+#p3{
+    color:crimson;
+    border-bottom-style:double;
+    border-top-style:groove;
+    border-left-style:inset;
+    background:linear-gradient(to top ,skyblue,lightgreen);
+
+}
+img{
+    height:150px;
+    width:150px;
+    float:center;
+    position:sticky;
+    top:0px;
+    bottom:0px;
+    
+
+}
+
+
+
